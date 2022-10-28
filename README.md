@@ -2,7 +2,7 @@
 
 This tool is for making PvZ 2 dialogue
 
-Download at [release](https://github.com/Peap1ant/Dialogue-Maker/releases/tag/Release), or [G drive](https://drive.google.com/drive/folders/1vngsMIkh3sAaLyiOLckIbBAyxMlhijMA?usp=sharing)
+Download at [release](https://github.com/Peap1ant/Dialogue-Maker/releases/tag/Release), or [Google drive](https://drive.google.com/drive/folders/1vngsMIkh3sAaLyiOLckIbBAyxMlhijMA?usp=sharing)
 
 Please, read How to use.md for setup & use guide!
 
